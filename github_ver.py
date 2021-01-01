@@ -9,7 +9,7 @@ from player import player
 from ability import ability, clear_screen, move_square, move_fast
 
 
-QuestionMark = pygame.image.load(r'C:\Users\user\Desktop\python\my_projects\GitAchtung\QuestionMark.png')
+QuestionMark = pygame.image.load(r'QuestionMark.png')
 
 pygame.init()
 width = 1200
